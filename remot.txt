@@ -1,0 +1,3 @@
+this is test of remote adding:wq1
+:wq1
+
